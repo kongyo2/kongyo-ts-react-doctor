@@ -1,0 +1,22 @@
+{
+  "name": "kongyo-ts-react-doctor",
+  "owner": {
+    "name": "kongyo2",
+    "email": ""
+  },
+  "metadata": {
+    "description": "react-doctorを実行する",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "kongyo-ts-react-doctor",
+      "description": "react-doctorを実行する",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./kongyo-ts-react-doctor"
+      ]
+    }
+  ]
+}
