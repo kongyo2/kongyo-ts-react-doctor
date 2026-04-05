@@ -5,13 +5,13 @@
     "email": ""
   },
   "metadata": {
-    "description": "react-doctorを実行する",
+    "description": "React/TypeScript プロジェクトで react-doctor を実行して診断する",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "kongyo-ts-react-doctor",
-      "description": "react-doctorを実行する",
+      "description": "React/TypeScript プロジェクトで react-doctor を実行して診断する",
       "source": "./",
       "strict": false,
       "skills": [
