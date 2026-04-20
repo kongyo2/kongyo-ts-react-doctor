@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "React/TypeScript プロジェクトで react-doctor を実行して診断する",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
